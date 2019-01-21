@@ -6,7 +6,6 @@
 }
 
 html {
-  font-family: sans-serif;
   font-family: var(--font-primary);
 }
 
@@ -23,7 +22,7 @@ html {
 }
 
 .btn {
-  backgorund-color: var(--color-primary);
+  background-color: var(--color-primary);
   border-color: var(--color-primary);
   border-radius: var(--border-radius);
   font-family: var(--font-secondary);
